@@ -1,4 +1,5 @@
 // FROM FEATURE/CONTROLADORES
+// FROM LERMA
 import faker from "faker";
 import { Mappable } from "./CustomMap";
 
@@ -21,3 +22,5 @@ export class User implements Mappable {
     return `User Name: ${this.name}`;
   }
 }
+
+// ADIOS
