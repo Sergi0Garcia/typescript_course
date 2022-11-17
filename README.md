@@ -1,5 +1,5 @@
 # typescript_course
 
-<em>Learning typescript
+<em>Learning typescript <br />
 https://www.udemy.com/course/typescript-the-complete-developers-guide/
 </em>
